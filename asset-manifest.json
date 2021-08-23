@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MultiStepReact/static/css/main.a617e044.chunk.css",
+    "main.js": "/MultiStepReact/static/js/main.9e6f2ab1.chunk.js",
+    "main.js.map": "/MultiStepReact/static/js/main.9e6f2ab1.chunk.js.map",
+    "runtime-main.js": "/MultiStepReact/static/js/runtime-main.cad5a10b.js",
+    "runtime-main.js.map": "/MultiStepReact/static/js/runtime-main.cad5a10b.js.map",
+    "static/js/2.634e4a10.chunk.js": "/MultiStepReact/static/js/2.634e4a10.chunk.js",
+    "static/js/2.634e4a10.chunk.js.map": "/MultiStepReact/static/js/2.634e4a10.chunk.js.map",
+    "static/js/3.589ece3b.chunk.js": "/MultiStepReact/static/js/3.589ece3b.chunk.js",
+    "static/js/3.589ece3b.chunk.js.map": "/MultiStepReact/static/js/3.589ece3b.chunk.js.map",
+    "index.html": "/MultiStepReact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/MultiStepReact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.634e4a10.chunk.js.LICENSE.txt": "/MultiStepReact/static/js/2.634e4a10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cad5a10b.js",
+    "static/js/2.634e4a10.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9e6f2ab1.chunk.js"
+  ]
+}
